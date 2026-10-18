@@ -80,3 +80,20 @@ Deep-Learning-Practice/
 This repository serves as a collection of my Deep Learning experiments, practice notebooks, and mini-projects. It documents my progress in understanding neural networks and applying deep learning techniques to computer vision, language modelling, and other machine learning problems.
 
 I will continue updating this repository as I explore new architectures, optimization strategies, and real-world applications of Deep Learning.
+
+## Author
+
+**Vijay Kumar Prajapat**
+
+M.Tech in Data & Computational Sciences, IIT Jodhpur
+
+Interested in Deep Learning, Machine Learning, Computer Vision, Natural Language Processing (NLP), and Generative AI.
+
+- **PortFolio:** [Vijay Prajapat](file:///C:/Users/asus/OneDrive/Documents/index%20(1).html)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-linkedin-username/)
+
+**Last Updated:** October 18, 2026
+
+Feel free to explore my projects, share feedback, and connect with me to discuss Deep Learning and AI.
+
+If you find this repository useful, please consider giving it a star!
