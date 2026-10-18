@@ -89,7 +89,6 @@ M.Tech in Data & Computational Sciences, IIT Jodhpur
 
 Interested in Deep Learning, Machine Learning, Computer Vision, Natural Language Processing (NLP), and Generative AI.
 
-- **Portfolio:** [Vijay Prajapat](https://your-portfolio-url.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-linkedin-username/)
 
 **Last Updated:** October 18, 2026
